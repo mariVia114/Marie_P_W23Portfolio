@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Marie_P_W23Portfolio/static/css/main.9ff8e74a.css",
-    "main.js": "/Marie_P_W23Portfolio/static/js/main.41d2307c.js",
+    "main.js": "/Marie_P_W23Portfolio/static/js/main.560e70ff.js",
     "static/media/recipeApp.png": "/Marie_P_W23Portfolio/static/media/recipeApp.0cf41c87aad0b55bb81c.png",
     "static/media/about.png": "/Marie_P_W23Portfolio/static/media/about.89d5c0a0c4a406dbec8f.png",
     "static/media/Resume.pdf": "/Marie_P_W23Portfolio/static/media/Resume.2b18137db85ad372c115.pdf",
@@ -15,10 +15,10 @@
     "static/media/logo.png": "/Marie_P_W23Portfolio/static/media/logo.a54ca9fd4fc3f273e9c3.png",
     "index.html": "/Marie_P_W23Portfolio/index.html",
     "main.9ff8e74a.css.map": "/Marie_P_W23Portfolio/static/css/main.9ff8e74a.css.map",
-    "main.41d2307c.js.map": "/Marie_P_W23Portfolio/static/js/main.41d2307c.js.map"
+    "main.560e70ff.js.map": "/Marie_P_W23Portfolio/static/js/main.560e70ff.js.map"
   },
   "entrypoints": [
     "static/css/main.9ff8e74a.css",
-    "static/js/main.41d2307c.js"
+    "static/js/main.560e70ff.js"
   ]
 }
