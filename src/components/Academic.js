@@ -24,11 +24,6 @@ const academic = [
     description:
       "Builds fundamental knowledge and skills required for full stack development. (MERN Stack). Learned React as front-end framework, implement NoSQL databases (MongoDB) and work with Express framework and Node.js environment",
   },
-  {
-    name: "Web Development",
-    description:
-      "Develop web applications based on Servlets, JavaBeans, JavaServer Pages technology, Model-View Controller Architecture, and JavaServer Faces. Explored the technical details as well as best practices for designing, developing and deploying robust web applications",
-  },
 ];
 
 const Academic = () => {
@@ -49,6 +44,12 @@ const Academic = () => {
               Part of Dean's list throughout the entire 3 year in college.
               Gathered a 3.5 or higher GPA.
             </h3>
+            <div className="max-w-[476px] pb-9">
+              <h4 className="text-[20px] tracking-wider font-primary font-semibold mb-6">
+                Transcript
+              </h4>
+              <img src={transcript} alt="" />
+            </div>
           </motion.div>
           {/* services */}
           <motion.div
@@ -60,12 +61,6 @@ const Academic = () => {
           >
             {/* service list */}
             <div>
-              <div className="max-w-[476px] pb-9">
-                <h4 className="text-[20px] tracking-wider font-primary font-semibold mb-6">
-                  Transcript
-                </h4>
-                <img src={transcript} alt="" />
-              </div>
               {academic.map((service, index) => {
                 // destructure service
                 const { name, description, link } = service;
@@ -82,7 +77,6 @@ const Academic = () => {
                         {description}
                       </p>
                     </div>
-                    
                   </div>
                 );
               })}

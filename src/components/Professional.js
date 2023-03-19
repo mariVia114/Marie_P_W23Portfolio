@@ -1,14 +1,12 @@
 import React from "react";
-// icon
-import { BsArrowUpRight } from "react-icons/bs";
 // motion
 import { motion } from "framer-motion";
 // variants
 import { fadeIn } from "../variants";
 
-const Academic = () => {
+const Professional = () => {
   return (
-    <section className="section" id="academic">
+    <section className="section" id="professional">
       <div className="container mx-auto">
         <div className="flex flex-col lg:flex-row">
           {/* text & image */}
@@ -20,7 +18,7 @@ const Academic = () => {
             className="flex-1 lg:bg-academic lg:bg-bottom bg-no-repeat mix-blend-lighten mb-12 lg:mb-0"
           >
             <h2 className="h2">Professional Experience</h2>
-            <p className="p"> Work in progress</p>
+            <p className="p">Not applocable yet. Work in progress</p>
           </motion.div>
         </div>
       </div>
@@ -28,4 +26,4 @@ const Academic = () => {
   );
 };
 
-export default Academic;
+export default Professional;
