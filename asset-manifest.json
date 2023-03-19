@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/Marie_P_W23Portfolio/static/css/main.bbae22b0.css",
-    "main.js": "/Marie_P_W23Portfolio/static/js/main.5d50df5a.js",
-    "static/media/portfolio-img2.png": "/Marie_P_W23Portfolio/static/media/portfolio-img2.d80e3fc7e2231cffbbd7.png",
-    "static/media/portfolio-img3.png": "/Marie_P_W23Portfolio/static/media/portfolio-img3.e2bf250541b961cca642.png",
-    "static/media/portfolio-img1.png": "/Marie_P_W23Portfolio/static/media/portfolio-img1.65b23e5c313b18600f24.png",
+    "main.css": "/Marie_P_W23Portfolio/static/css/main.9ff8e74a.css",
+    "main.js": "/Marie_P_W23Portfolio/static/js/main.41d2307c.js",
+    "static/media/recipeApp.png": "/Marie_P_W23Portfolio/static/media/recipeApp.0cf41c87aad0b55bb81c.png",
     "static/media/about.png": "/Marie_P_W23Portfolio/static/media/about.89d5c0a0c4a406dbec8f.png",
     "static/media/Resume.pdf": "/Marie_P_W23Portfolio/static/media/Resume.2b18137db85ad372c115.pdf",
+    "static/media/weatherWeb.jpg": "/Marie_P_W23Portfolio/static/media/weatherWeb.202fa6fa96520186f311.jpg",
+    "static/media/jarvis.png": "/Marie_P_W23Portfolio/static/media/jarvis.da431451b677de0b8ec1.png",
     "static/media/Cover Letter - Marie Pagaduan.pdf": "/Marie_P_W23Portfolio/static/media/Cover Letter - Marie Pagaduan.b1635f6e30ca8f252fcd.pdf",
+    "static/media/chatProject2.png": "/Marie_P_W23Portfolio/static/media/chatProject2.fd633dac536adab58a69.png",
     "static/media/site-bg.jpg": "/Marie_P_W23Portfolio/static/media/site-bg.82f40d09fce3d33cee2f.jpg",
     "static/media/transcript.png": "/Marie_P_W23Portfolio/static/media/transcript.78fe9e9843e0d5d98f1c.png",
+    "static/media/restaurantApp.png": "/Marie_P_W23Portfolio/static/media/restaurantApp.006868c32e5d2665dbfa.png",
     "static/media/logo.png": "/Marie_P_W23Portfolio/static/media/logo.a54ca9fd4fc3f273e9c3.png",
     "index.html": "/Marie_P_W23Portfolio/index.html",
-    "main.bbae22b0.css.map": "/Marie_P_W23Portfolio/static/css/main.bbae22b0.css.map",
-    "main.5d50df5a.js.map": "/Marie_P_W23Portfolio/static/js/main.5d50df5a.js.map"
+    "main.9ff8e74a.css.map": "/Marie_P_W23Portfolio/static/css/main.9ff8e74a.css.map",
+    "main.41d2307c.js.map": "/Marie_P_W23Portfolio/static/js/main.41d2307c.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbae22b0.css",
-    "static/js/main.5d50df5a.js"
+    "static/css/main.9ff8e74a.css",
+    "static/js/main.41d2307c.js"
   ]
 }
